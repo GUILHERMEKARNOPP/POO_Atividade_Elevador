@@ -14,6 +14,9 @@ Indicar se a porta está aberta ou fechada
 Mostrar o andar atual
  
 Restrições:
+
 O elevador não pode subir mais andares do que o está disponível
+
 O elevador não pode descer mais andares do que o está disponível
+
 O elevador não pode subir ou descer algum andar se a porta estiver aberta
