@@ -1,6 +1,5 @@
 # POO_Atividade_Elevador
 
-Descrição
 
 Desenvolva uma classe com a linguagem Java que represente um elevador. Crie um objeto a partir da classe e faça o uso dos seus métodos ( subir, descer, abrir e fechar a porta, etc).
 
