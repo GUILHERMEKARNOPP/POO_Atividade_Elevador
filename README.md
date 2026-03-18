@@ -6,11 +6,17 @@ Desenvolva uma classe com a linguagem Java que represente um elevador. Crie um o
 Apresente o diagrama de classe da UML que represente a classe desenvolvida.
 
 Ações que o elevador pode realizar:
+
 Subir
+
 Descer
+
 Abrir a porta
+
 Fechar a porta
+
 Indicar se a porta está aberta ou fechada
+
 Mostrar o andar atual
  
 Restrições:
