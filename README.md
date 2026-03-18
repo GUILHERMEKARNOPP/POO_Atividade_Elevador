@@ -7,22 +7,22 @@ Apresente o diagrama de classe da UML que represente a classe desenvolvida.
 
 Ações que o elevador pode realizar:
 
-Subir
+- Subir
 
-Descer
+- Descer
 
-Abrir a porta
+- Abrir a porta
 
-Fechar a porta
+- Fechar a porta
 
-Indicar se a porta está aberta ou fechada
+- Indicar se a porta está aberta ou fechada
 
-Mostrar o andar atual
+- Mostrar o andar atual
  
 Restrições:
 
-O elevador não pode subir mais andares do que o está disponível
+- O elevador não pode subir mais andares do que o está disponível
 
-O elevador não pode descer mais andares do que o está disponível
+- O elevador não pode descer mais andares do que o está disponível
 
-O elevador não pode subir ou descer algum andar se a porta estiver aberta
+- O elevador não pode subir ou descer algum andar se a porta estiver aberta
